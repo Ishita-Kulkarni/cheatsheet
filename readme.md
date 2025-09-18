@@ -43,4 +43,7 @@ Usage example: `git add file.txt` or `git add .` to add all changes.
 ## git commit
 Record staged changes.
 Usage example: `git commit -m "Short meaningful message"`
+## git push
+Upload local commits to a remote repository.
+Usage example: `git push origin main`
 
