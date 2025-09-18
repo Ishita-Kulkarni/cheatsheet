@@ -19,4 +19,7 @@ Usage example: `chmod 644 file.txt` or `chmod +x script.sh` to make executable.
 ## cp
 Copy files and directories.
 Usage example: `cp source.txt destination.txt` or `cp -r dir1 dir2` to copy directories.
+## mv
+Move or rename files.
+Usage example: `mv oldname.txt newname.txt`
 
