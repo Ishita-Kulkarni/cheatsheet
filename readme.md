@@ -4,4 +4,7 @@ This repo contains a short cheat sheet. Each branch will add one command entry a
 ## ls
 Lists directory contents.
 Usage example: `ls -l` shows a long listing (permissions, owner, size, date).
+## cd
+Change the current directory.
+Usage example: `cd /path/to/folder` or `cd ..` to go up one level.
 
