@@ -22,4 +22,7 @@ Usage example: `cp source.txt destination.txt` or `cp -r dir1 dir2` to copy dire
 ## mv
 Move or rename files.
 Usage example: `mv oldname.txt newname.txt`
+## rm
+Remove files or directories (careful!).
+Usage example: `rm file.txt` or `rm -rf folder` to force-delete recursively.
 
