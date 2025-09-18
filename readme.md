@@ -13,4 +13,7 @@ Usage example: `cat file.txt`
 ## grep
 Search for patterns inside files.
 Usage example: `grep 'pattern' filename` or `grep -R 'pattern' .` for recursive search.
+## chmod
+Change file or directory permissions.
+Usage example: `chmod 644 file.txt` or `chmod +x script.sh` to make executable.
 
