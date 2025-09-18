@@ -28,4 +28,7 @@ Usage example: `rm file.txt` or `rm -rf folder` to force-delete recursively.
 ## touch
 Create an empty file or update file timestamps.
 Usage example: `touch newfile.txt`
+## find
+Find files in a directory tree.
+Usage example: `find . -name '*.log'` or `find / -type f -name 'notes.txt'`
 
