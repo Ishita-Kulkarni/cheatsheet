@@ -34,4 +34,7 @@ Usage example: `find . -name '*.log'` or `find / -type f -name 'notes.txt'`
 ## git init
 Initialize a new Git repository.
 Usage example: `git init -b main`
+## git clone
+Copy a remote repository locally.
+Usage example: `git clone git@github.com:username/repo.git`
 
