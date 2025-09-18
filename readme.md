@@ -37,4 +37,7 @@ Usage example: `git init -b main`
 ## git clone
 Copy a remote repository locally.
 Usage example: `git clone git@github.com:username/repo.git`
+## git add
+Stage changes for commit.
+Usage example: `git add file.txt` or `git add .` to add all changes.
 
