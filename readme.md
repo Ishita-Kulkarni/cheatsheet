@@ -10,4 +10,7 @@ Usage example: `cd /path/to/folder` or `cd ..` to go up one level.
 ## cat
 Display file contents or concatenate files.
 Usage example: `cat file.txt`
+## grep
+Search for patterns inside files.
+Usage example: `grep 'pattern' filename` or `grep -R 'pattern' .` for recursive search.
 
