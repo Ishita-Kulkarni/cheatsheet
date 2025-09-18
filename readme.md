@@ -25,4 +25,7 @@ Usage example: `mv oldname.txt newname.txt`
 ## rm
 Remove files or directories (careful!).
 Usage example: `rm file.txt` or `rm -rf folder` to force-delete recursively.
+## touch
+Create an empty file or update file timestamps.
+Usage example: `touch newfile.txt`
 
