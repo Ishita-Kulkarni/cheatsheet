@@ -31,4 +31,7 @@ Usage example: `touch newfile.txt`
 ## find
 Find files in a directory tree.
 Usage example: `find . -name '*.log'` or `find / -type f -name 'notes.txt'`
+## git init
+Initialize a new Git repository.
+Usage example: `git init -b main`
 
